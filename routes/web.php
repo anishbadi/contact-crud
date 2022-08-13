@@ -13,10 +13,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// Route::get('contact/import', function () {
-//     dd(234);
-// });
+// Contact Crud route start
 
 Route::get('contact/import','ContactController@import')->name('contact.import');
 Route::post('contact/import/store','ContactController@importStore')->name('contact.import.store');
 Route::resource('contact', 'ContactController');
+
+// Contact Crud route End
