@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<contacts>
+    <contact>
+        <name>Paulita M. Riggins</name>
+        <email>paulita@gmail.com</email>
+        <phone_number>3042682984</phone_number>
+        <address>2001 Tavern Place Martinsburg, WV 25401</address>
+    </contact>
+    <contact>
+        <name>Anita T. Hurley</name>
+        <email>anita@gmail.com</email>
+        <phone_number>7032180445</phone_number>
+        <address>3071 Lawman Avenue Fairfax, VA 22030</address>
+    </contact>
+    <contact>
+        <name>Kim L. Wilson</name>
+        <email>kim@gmail.com</email>
+        <phone_number>3369170960</phone_number>
+        <address>467 Fire Access Road Winston Salem, NC 27101</address>
+    </contact>
+    <contact>
+        <name>Harold L. Lee</name>
+        <email>harold@gmail.com</email>
+        <phone_number>5303228498</phone_number>
+        <address>2374 Ferrell Street Humboldt, MN 56731</address>
+    </contact>
+    <contact>
+        <name>Lucille D. Ramirez</name>
+        <email>LucilleDRamirez@dayrep.com</email>
+        <phone_number>6023186080</phone_number>
+        <address>3180 Griffin Street Phoenix, AZ 85034</address>
+    </contact>
+</contacts>
