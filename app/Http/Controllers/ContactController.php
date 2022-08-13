@@ -118,6 +118,6 @@ class ContactController extends Controller
     public function importStore(ImportFileRequest $request)
     {
         $this->contactServices->importStore($request);
-        return redirect()->to('contact')->with('message', config('message.contact_import'));
+        return redirect()->route('contact.index')->with('message', config('message.contact_import'));
     }
 }
